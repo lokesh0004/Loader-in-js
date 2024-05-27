@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: dodgerblue;
+}
+.load{
+    align-items: center;
+    margin-top: 300px;
+    margin-left: 500px;
+    border-radius: 30%;
+}
+.loader{
+    -webkit-appearance: none;
+   height: 100px;
+   width: 500px;
+
+}
